@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="11" useXmlUI="false">
+    <image name="11QZeX5zTCL._SY291_BO1,204,203,200_QL40_ML2_.jpg"  />
+    <image name="hd.png"  />
+    <image name="Image 1"  />
+    <image name="login-background.jpg"  />
+    <image name="logopane.jpg"  />
+    <image name="Screenshot_20220731-102041.png"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <val key="Button.align" value="4" />
+        <val key="Button.bgColor" value="ccff" />
+        <gradient key="Button.bgGradient" color1="0" color2="0" posX="0.5" posY="0.5" radius="1.0" />
+        <val key="Button.bgType" value="0" />
+        <val key="Button.fgColor" value="ffffff" />
+        <font key="Button.font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="3" actualSize="3.0" />
+        <val key="Button.marUnit" value="2,2,2,2" />
+        <val key="Button.margin" value="1.0,1.0,1.0,1.0" />
+        <val key="Button.padUnit" value="2,2,2,2" />
+        <val key="Button.padding" value="1.0,1.0,1.0,1.0" />
+        <val key="Button.press#derive" value="Button" />
+        <val key="Button.transparency" value="208" />
+        <val key="ButtonGroup.bgColor" value="0" />
+        <val key="ButtonGroup.fgColor" value="0" />
+        <val key="ButtonGroup.marUnit" value="2,2,2,2" />
+        <val key="ButtonGroup.margin" value="1.0,1.0,1.0,1.0" />
+        <val key="ButtonGroup.padUnit" value="2,2,2,2" />
+        <val key="ButtonGroup.padding" value="2.0,2.0,2.0,2.0" />
+        <val key="ButtonGroup.press#derive" value="ButtonGroup" />
+        <val key="CancelButton.bgColor" value="ff0033" />
+        <val key="CancelButton.derive" value="Button" />
+        <val key="CancelButton.fgColor" value="0" />
+        <val key="CancelButton.transparency" value="200" />
+        <val key="CheckBox.bgColor" value="0" />
+        <border key="CheckBox.border" type="empty" />
+        <val key="CheckBox.fgColor" value="f06393" />
+        <font key="CheckBox.font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="3" actualSize="3.5" />
+        <val key="CheckBox.marUnit" value="2,2,2,2" />
+        <val key="CheckBox.margin" value="0.5,0.5,0.5,0.5" />
+        <val key="CheckBox.padUnit" value="2,2,2,2" />
+        <val key="CheckBox.padding" value="2.0,2.0,2.0,2.0" />
+        <val key="CheckBox.press#derive" value="CheckBox" />
+        <val key="CheckBox.transparency" value="0" />
+        <val key="ComboBox.bgColor" value="efeff4" />
+        <val key="ComboBox.derive" value="TextField" />
+        <val key="ComboBox.fgColor" value="0" />
+        <font key="ComboBox.font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="3" actualSize="3.0" />
+        <val key="ComboBox.transparency" value="255" />
+        <border key="ComboBoxItem.border" type="empty" />
+        <font key="ComboBoxItem.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="3.0" />
+        <val key="ComboBoxItem.marUnit" value="2,0,2,0" />
+        <val key="ComboBoxItem.margin" value="0.5,0.5,0.0,0.0" />
+        <val key="ComboBoxItem.padUnit" value="2,2,2,2" />
+        <val key="ComboBoxItem.padding" value="1.0,1.0,1.5,0.0" />
+        <val key="ComboBoxPopup.padUnit" value="2,2,2,2" />
+        <val key="ComboBoxPopup.padding" value="0.5,0.5,1.0,1.0" />
+        <val key="Container.transparency" value="0" />
+        <val key="Dialog.bgColor" value="ffffff" />
+        <border key="Dialog.border" type="empty" />
+        <val key="Dialog.transparency" value="255" />
+        <val key="DialogButton.align" value="4" />
+        <val key="DialogButton.fgColor" value="ffffff" />
+        <font key="DialogButton.font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="3" actualSize="3.0" />
+        <val key="DialogButton.marUnit" value="2,2,2,2" />
+        <val key="DialogButton.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="DialogButton.padUnit" value="2,2,2,2" />
+        <val key="DialogButton.padding" value="1.0,1.0,1.0,1.0" />
+        <val key="DialogCommandArea.padding" value="0.0,0.0,0.0,0.0" />
+        <val key="DialogCommandArea.transparency" value="0" />
+        <val key="DialogTitle.bgColor" value="0" />
+        <border key="DialogTitle.border" type="empty" />
+        <val key="DialogTitle.fgColor" value="1b82fb" />
+        <val key="DialogTitle.transparency" value="0" />
+        <val key="Form.bgColor" value="ffffff" />
+        <val key="Form.bgImage" value="11QZeX5zTCL._SY291_BO1,204,203,200_QL40_ML2_.jpg" />
+        <val key="Form.bgType" value="1" />
+        <val key="Label.fgColor" value="0" />
+        <font key="Label.font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="3" actualSize="3.0" />
+        <val key="List.bgColor" value="ffffff" />
+        <val key="List.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="List.padding" value="0.0,0.0,0.0,0.0" />
+        <val key="LoginButton.align" value="4" />
+        <val key="LoginButton.derive" value="Button" />
+        <font key="LoginButton.font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="3" actualSize="3.5" />
+        <val key="LoginButton.marUnit" value="2,2,2,2" />
+        <val key="LoginButton.margin" value="3.0,3.0,1.0,1.0" />
+        <val key="LoginButton.padUnit" value="2,2,2,2" />
+        <val key="LoginButton.padding" value="2.0,2.0,2.0,2.0" />
+        <val key="RadioButton.align" value="4" />
+        <val key="RadioButton.bgColor" value="ffffff" />
+        <border key="RadioButton.border" type="empty" />
+        <val key="RadioButton.fgColor" value="33c5f6" />
+        <font key="RadioButton.font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="3" actualSize="3.0" />
+        <val key="RadioButton.marUnit" value="2,2,2,2" />
+        <val key="RadioButton.margin" value="2.0,2.0,2.0,2.0" />
+        <val key="RadioButton.padUnit" value="2,2,2,2" />
+        <val key="RadioButton.padding" value="2.0,2.0,2.0,2.0" />
+        <val key="RadioButton.press#derive" value="RadioButton" />
+        <val key="RadioButton.sel#derive" value="RadioButton" />
+        <val key="RadioButton.transparency" value="255" />
+        <val key="SideCommand.align" value="1" />
+        <border key="SideCommand.border" type="empty" />
+        <val key="SideCommand.fgColor" value="a6aff1" />
+        <font key="SideCommand.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="2.5" />
+        <val key="SideCommand.padUnit" value="2,2,2,2" />
+        <val key="SideCommand.padding" value="3.0,2.0,3.0,2.0" />
+        <val key="SideCommand.transparency" value="0" />
+        <val key="SideMenuTitle.fgColor" value="ffffff" />
+        <font key="SideMenuTitle.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="3.5" />
+        <val key="SideMenuTitle.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="SideMenuTitle.padUnit" value="2,2,2,2" />
+        <val key="SideMenuTitle.padding" value="1.0,1.0,1.0,1.0" />
+        <val key="SideMenuTitle.transparency" value="0" />
+        <val key="SideNavigationPanel.bgColor" value="1d224b" />
+        <gradient key="SideNavigationPanel.bgGradient" color1="0" color2="0" posX="0.5" posY="0.5" radius="1.0" />
+        <val key="SideNavigationPanel.bgType" value="0" />
+        <val key="SideNavigationPanel.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="SideNavigationPanel.padding" value="0.0,0.0,0.0,0.0" />
+        <val key="SideNavigationPanel.transparency" value="255" />
+        <val key="SidemenuTop.bgImage" value="hd.png" />
+        <val key="SidemenuTop.bgType" value="33" />
+        <val key="SidemenuTop.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="SidemenuTop.padUnit" value="2,2,2,2" />
+        <val key="SidemenuTop.padding" value="20.0,2.0,2.0,2.0" />
+        <gradient key="TextField.bgGradient" color1="0" color2="0" posX="0.5" posY="0.5" radius="1.0" />
+        <val key="TextField.bgType" value="0" />
+        <val key="TextField.fgColor" value="0" />
+        <font key="TextField.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="1" actualSize="12.0" />
+        <val key="TextField.padUnit" value="2,2,0,0" />
+        <val key="TextField.padding" value="0.5,0.0,2.0,0.0" />
+        <val key="TextHint.fgColor" value="999999" />
+        <font key="TextHint.font" type="ttf" face="0" style="1" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="3.0" />
+        <val key="TextHint.padUnit" value="0,2,0,0" />
+        <val key="TextHint.padding" value="0.0,0.0,2.0,0.0" />
+        <val key="Title.align" value="4" />
+        <val key="Title.bgColor" value="ffffff" />
+        <val key="Title.fgColor" value="0" />
+        <font key="Title.font" type="ttf" face="0" style="1" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="3" actualSize="3.0" />
+        <val key="Title.transparency" value="255" />
+        <val key="TitleArea.bgColor" value="5bc8fb" />
+        <gradient key="TitleArea.bgGradient" color1="6015227" color2="6015227" posX="0.5" posY="0.5" radius="1.0" />
+        <val key="TitleArea.bgType" value="8" />
+        <val key="TitleArea.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="TitleArea.padUnit" value="2,0,2,0" />
+        <val key="TitleArea.padding" value="0.5,0.5,0.0,0.0" />
+        <val key="TitleArea.transparency" value="255" />
+        <val key="TitleCommand.bgColor" value="0" />
+        <val key="TitleCommand.fgColor" value="157efb" />
+        <font key="TitleCommand.font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="3" actualSize="4.0" />
+        <val key="TitleCommand.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="TitleCommand.padUnit" value="2,2,2,2" />
+        <val key="TitleCommand.padding" value="2.0,2.0,2.0,2.0" />
+        <val key="TitleCommand.transparency" value="0" />
+        <val key="Toolbar.bgColor" value="ffffff" />
+        <font key="Toolbar.font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="3" actualSize="3.0" />
+        <val key="Toolbar.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="Toolbar.padUnit" value="2,2,2,2" />
+        <val key="Toolbar.padding" value="1.0,1.5,1.0,1.0" />
+        <val key="Toolbar.transparency" value="255" />
+        <val key="bgColor" value="ffffff" />
+        <border key="border" type="empty" />
+        <val key="fgColor" value="0" />
+        <font key="font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="3" actualSize="3.0" />
+        <val key="lbl1.align" value="4" />
+        <val key="lbl1.padUnit" value="2,2,2,2" />
+        <val key="lbl1.padding" value="3.0,3.0,3.0,3.0" />
+        <val key="lbl2.bgColor" value="0" />
+        <val key="lbl2.derive" value="lbl1" />
+        <val key="lbl2.fgColor" value="ff0000" />
+        <font key="lbl2.font" type="ttf" face="0" style="1" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="3.0" />
+        <val key="lbl2.textDecoration" value="1" />
+        <val key="lbl2.transparency" value="0" />
+        <val key="lbl_tt1.align" value="4" />
+        <border key="lbl_tt1.border" type="empty" />
+        <font key="lbl_tt1.font" type="ttf" face="0" style="1" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="3" actualSize="5.0" />
+        <val key="lbl_tt1.marUnit" value="2,0,0,0" />
+        <val key="lbl_tt1.margin" value="3.0,0.0,0.0,0.0" />
+        <val key="lbl_tt1.padUnit" value="2,2,0,2" />
+        <val key="lbl_tt1.padding" value="0.5,0.5,0.5,0.5" />
+        <val key="lbl_tt2.align" value="4" />
+        <border key="lbl_tt2.border" type="empty" />
+        <font key="lbl_tt2.font" type="ttf" face="0" style="2" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="3" actualSize="3.0" />
+        <val key="logo.align" value="4" />
+        <val key="logo.margin" value="0.0,0.0,2.0,2.0" />
+        <val key="logo.padUnit" value="2,2,2,2" />
+        <val key="logo.padding" value="1.0,1.0,0.0,0.0" />
+        <val key="transparency" value="0" />
+    </theme>
+    <image name="veryhigh.png"  />
+</resource>
